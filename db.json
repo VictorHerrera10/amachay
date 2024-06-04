@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "John Luis",
+      "apellido": "Romero Campos",
+      "direccion": "Plaza San Miguel, Lima, Perú"
+    },
+    {
+      "id": 2,
+      "nombre": "Jane Luisa",
+      "apellido": "Carraso Villalobos",
+      "direccion": "Centro de Salud Mental Comunitario Amachay (Cuidar), Lima, Perú"
+    }
+  ]
+}
